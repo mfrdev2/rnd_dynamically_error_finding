@@ -4,8 +4,9 @@ public class UtilBean {
     public static List<DDBean> getDDBeanList(){
         return Arrays.asList(
                 new DDBean("a","apple"),
-                new DDBean("b","boll"),
-                new DDBean("c","cat")
+                new DDBean("b","ball"),
+                new DDBean("c","cat"),
+                new DDBean("d","dog")
 
         );
     }
